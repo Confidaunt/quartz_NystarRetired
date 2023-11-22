@@ -1,0 +1,1 @@
+Is a good boy. [[Griff Whiteflower]]'s Iron Defender.
