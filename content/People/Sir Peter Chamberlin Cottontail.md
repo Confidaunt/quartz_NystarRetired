@@ -1,6 +1,6 @@
 ---
 Name: Peter Chamberlin Cottontail
-Race: Summon
+Race: Eildon
 Tarot: The World
 Moniker: Sir
 Position: None
