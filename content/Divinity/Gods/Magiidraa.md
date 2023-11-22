@@ -2,7 +2,7 @@
 Name: Magiidraa
 Race: Unknown
 Tarot: Unknown
-Moniker: Dragon God
+Moniker: None
 Position: None
 Origin: Unknown
 Country: Unknown
