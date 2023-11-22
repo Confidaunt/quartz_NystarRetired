@@ -17,7 +17,7 @@ isDead: False
 Cause: None
 ---
 Summary:
-The first red dragon. They are considered a god. The place of their death became the city of Magido.
+The first red dragon. They are considered a god. The place of their death became the city of Meggido.
 
 Appearance: 
 
