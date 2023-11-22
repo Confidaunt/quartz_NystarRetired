@@ -1,1 +1,1 @@
-The capital of [[Nystar/Places/Continents/Shannalotte/The Kingdom of Caderousse/Osiris]]. 
+The capital of [[Osiris]]. 

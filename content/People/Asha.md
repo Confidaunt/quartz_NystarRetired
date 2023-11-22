@@ -8,8 +8,7 @@ Origin: Umbassa
 Country: "[[Divinity/Gods/Umbassa]]"
 Region: "[[The Holy Dominion of Forgiveness]]"
 City: "[[Forgiveness]]"
-Organization:
-  - "[[The Church of Mercy]]"
+Organization: []
 Allies:
   - "[[Sway]]"
 Enemies:

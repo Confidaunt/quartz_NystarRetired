@@ -9,7 +9,6 @@ Country: The Toshkan Empire
 Region: Megiddo
 City: Megiddo
 Organization:
-  - "[[The Church of Mercy]]"
   - "[[The Legendseekers]]"
 Allies:
   - "[[Griff Whiteflower]]"

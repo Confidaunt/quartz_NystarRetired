@@ -2,7 +2,7 @@ The Nine Treasures are contained, or once were contained in the [[The Nine Tombs
 
 [[Excalibur]] (rumored)
 
-[[The Philosopher's Stone]] ([[Megiddo]])
+[[The Philosopher's Stone]] ([[Megido]])
 
 [[The Silent Stone]]
 
