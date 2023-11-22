@@ -2,7 +2,7 @@
 Name: Kayneth Stilvaletti
 Race: Unknown
 Tarot: Unknown
-Title: The Second Pillar
+Moniker: The Second Pillar
 Position: Chief Justice of the Empire
 Origin: Unknown
 Country: Unknown

@@ -2,7 +2,7 @@
 Name: Peter Chamberlin Cottontail
 Race: Summon
 Tarot: The World
-Title: Sir
+Moniker: Sir
 Position: None
 Origin: Unknown
 Country: Unknown

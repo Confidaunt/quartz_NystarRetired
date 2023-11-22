@@ -2,7 +2,7 @@
 Name: Griff Whiteflower
 Race: Half-Elf
 Tarot: The Empress
-Title: None
+Moniker: None
 Position: Adventurer
 Origin: Bestino
 Country: The Toshkan Empire

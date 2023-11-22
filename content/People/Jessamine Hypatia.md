@@ -2,7 +2,7 @@
 Name: Jessamine Hypatia
 Race: Unknown
 Tarot: Unknown
-Title: The Sixth Pillar
+Moniker: The Sixth Pillar
 Position: Lord Regent
 Origin: Unknown
 Country: The Toshkan Empire

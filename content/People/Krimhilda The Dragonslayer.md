@@ -2,7 +2,7 @@
 Name: Krimhilda
 Race: Unknown
 Tarot: Unknown
-Title: The Dragonslayer
+Moniker: The Dragonslayer
 Position: The Everlasting Sovereign
 Origin: Unknown
 Country: Unknown

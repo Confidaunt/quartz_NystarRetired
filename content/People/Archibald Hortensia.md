@@ -2,7 +2,7 @@
 Name: Archibald Hortensia
 Race: Unknown
 Tarot: Unknown
-Title: The Fifth Pillar
+Moniker: The Fifth Pillar
 Position: Pontiff of the Everlasting Sovereign
 Origin: Unknown
 Country: Unknown

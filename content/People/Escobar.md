@@ -2,7 +2,7 @@
 Name: Escobar
 Race: Dimetrodon
 Tarot: Unknown
-Title: None
+Moniker: None
 Position: Gang Leader
 Origin: Unknown
 Country: The Toshkan Empire

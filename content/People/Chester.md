@@ -2,7 +2,7 @@
 Name: Chester
 Race: Human
 Tarot: Unknown
-Title: None
+Moniker: None
 Position: Outlander
 Origin: Unknown
 Country: The Toshkan Empire

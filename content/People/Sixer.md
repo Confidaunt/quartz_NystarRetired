@@ -2,7 +2,7 @@
 Name: Sixer
 Race: Drow
 Tarot: Unknown
-Title: None
+Moniker: None
 Position: None
 Origin: Unknown
 Country: The Toshkan Empire

@@ -2,7 +2,7 @@
 Name: Chastain
 Race: Elf
 Tarot: Unknown
-Title: None
+Moniker: None
 Position: Inquisitor
 Origin: Unknown
 Country: The Toshkan Empire

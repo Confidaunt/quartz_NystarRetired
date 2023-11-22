@@ -2,7 +2,7 @@
 Name: Walter Hypatia
 Race: Unknown
 Tarot: Unknown
-Title: None
+Moniker: None
 Position: None
 Origin: Unknown
 Country: Unknown

@@ -2,7 +2,7 @@
 Name: Darrill Mercuria
 Race: Human
 Tarot: Unknown
-Title: Captain
+Moniker: Captain
 Position: Adventurer
 Origin: Unknown
 Country: The Toshkan Empire

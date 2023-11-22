@@ -2,7 +2,7 @@
 Name: Spymaster
 Race: Unknown
 Tarot: Unknown
-Title: The Seventh Pillar
+Moniker: The Seventh Pillar
 Position: Spymaster
 Origin: Unknown
 Country: The Toshkan Empire

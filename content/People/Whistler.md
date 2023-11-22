@@ -2,7 +2,7 @@
 Name: Whistler
 Race: Human
 Tarot: Unknown
-Title: None
+Moniker: None
 Position: Adventurer
 Origin: Unknown
 Country: Unknown

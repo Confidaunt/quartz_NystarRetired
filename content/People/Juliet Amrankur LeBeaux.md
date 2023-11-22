@@ -2,7 +2,7 @@
 Name: Juliet Amrankur LeBeaux
 Race: Fire Genasi
 Tarot: The Chariot
-Title: None
+Moniker: None
 Position: Adventurer
 Origin: "[[LeBeaux Mishigamaw]]"
 Country: The Toshkan Empire

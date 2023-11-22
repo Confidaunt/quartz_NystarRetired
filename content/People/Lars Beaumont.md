@@ -2,7 +2,7 @@
 Name: Lars Beaumont
 Race: Human
 Tarot: Unknown
-Title: None
+Moniker: None
 Position: None
 Origin: Bestino
 Country: The Toshkan Empire

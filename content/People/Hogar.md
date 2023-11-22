@@ -2,7 +2,7 @@
 Name: Hogar
 Race: Duergar
 Tarot: Unknown
-Title: None
+Moniker: None
 Position: None
 Origin: Unknown
 Country: The Toshkan Empire

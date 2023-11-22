@@ -2,7 +2,7 @@
 Name: Sofina
 Race: Human
 Tarot: Unknown
-Title: None
+Moniker: None
 Position: Adventurer
 Origin: Unknown
 Country: The Toshkan Empire

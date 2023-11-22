@@ -2,7 +2,7 @@
 Name: Morrinn Boreas
 Race: Unknown
 Tarot: Unknown
-Title: Her Crystalline Majesty
+Moniker: Her Crystalline Majesty
 Position: Queen
 Origin: Unknown
 Country: Unknown

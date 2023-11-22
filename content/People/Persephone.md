@@ -2,7 +2,7 @@
 Name: Persephone
 Race: Unknown
 Tarot: Unknown
-Title: None
+Moniker: None
 Position: Summoner
 Origin: The Toshkan Empire
 Country: "[[The Holy Dominion of Forgiveness]]"

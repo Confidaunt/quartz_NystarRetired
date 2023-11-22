@@ -2,7 +2,7 @@
 Name: Flynn
 Race: Human
 Tarot: Unknown
-Title: None
+Moniker: None
 Position: Captain of the Haven Guard
 Origin: Unknown
 Country: The Toshkan Empire

@@ -2,7 +2,7 @@
 Name: Victor Rudamente
 Race: Human
 Tarot: Unknown
-Title: None
+Moniker: None
 Position: None
 Origin: Unknown
 Country: The Toshkan Empire

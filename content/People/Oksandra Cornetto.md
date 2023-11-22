@@ -2,7 +2,7 @@
 Name: Oksandra Cornetto
 Race: Half Demon
 Tarot: Unknown
-Title: None
+Moniker: None
 Position: Adjudicator
 Origin: Unknown
 Country: The Toshkan Empire

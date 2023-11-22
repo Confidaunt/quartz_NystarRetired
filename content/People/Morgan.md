@@ -2,7 +2,7 @@
 Name: Morgan
 Race: Changling
 Tarot: The Moon
-Title: None
+Moniker: None
 Position: Adventurer
 Origin: Unknown
 Country: The Toshkan Empire

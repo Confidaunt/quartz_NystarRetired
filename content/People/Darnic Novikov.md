@@ -2,7 +2,7 @@
 Name: Darnic Novikov
 Race: Unknown
 Tarot: Unknown
-Title: The Fourth Pillar
+Moniker: The Fourth Pillar
 Position: Provost of the Nine Magics
 Origin: Unknown
 Country: Unknown

@@ -2,7 +2,7 @@
 Name: Maximillian Beaumont
 Race: Unknown
 Tarot: Unknown
-Title: None
+Moniker: None
 Position: Warden of the West
 Origin: Unknown
 Country: Unknown

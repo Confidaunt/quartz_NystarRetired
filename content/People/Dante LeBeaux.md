@@ -2,7 +2,7 @@
 Name: Dante LeBeaux
 Race: Half-Elf
 Tarot: Unknown
-Title: None
+Moniker: None
 Position: Haven Guard
 Origin: "[[LeBeaux Mishigamaw]]"
 Country: The Toshkan Empire

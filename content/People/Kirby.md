@@ -2,7 +2,7 @@
 Name: Kirby
 Race: Elf
 Tarot: Unknown
-Title: None
+Moniker: None
 Position: Thieves Guild Member
 Origin: Unknown
 Country: The Toshkan Empire

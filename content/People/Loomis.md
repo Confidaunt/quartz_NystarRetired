@@ -2,7 +2,7 @@
 Name: Lumis
 Race: Changling
 Tarot: Unknown
-Title: None
+Moniker: None
 Position: None
 Origin: Unknown
 Country: The Toshkan Empire

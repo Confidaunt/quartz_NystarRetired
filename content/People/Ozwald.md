@@ -2,7 +2,7 @@
 Name: Ozwald
 Race: Human
 Tarot: Unknown
-Title: That Poor Bastard
+Moniker: That Poor Bastard
 Position: Archivist
 Origin: Unknown
 Country: The Toshkan Empire

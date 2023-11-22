@@ -2,7 +2,7 @@
 Name: Beatrix Warshadow
 Race: Unknown
 Tarot: Unknown
-Title: None
+Moniker: None
 Position: Warden of the North
 Origin: Unknown
 Country: Unknown

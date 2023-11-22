@@ -2,7 +2,7 @@
 Name: Cooke
 Race: Drow
 Tarot: Unknown
-Title: None
+Moniker: None
 Position: Adventurer
 Origin: Unknown
 Country: The Toshkan Empire

@@ -2,7 +2,7 @@
 Name: Esmerelda
 Race: Dimetrodon
 Tarot: Unknown
-Title: None
+Moniker: None
 Position: Gang Boss
 Origin: Unknown
 Country: The Toshkan Empire

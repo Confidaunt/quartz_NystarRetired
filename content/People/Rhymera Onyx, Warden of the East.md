@@ -2,7 +2,7 @@
 Name: Rhymera Onyx
 Race: Unknown
 Tarot: Unknown
-Title: None
+Moniker: None
 Position: Warden of the East
 Origin: Unknown
 Country: The Toshkan Empire

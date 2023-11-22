@@ -2,7 +2,7 @@
 Name: Kalos
 Race: Kitsune
 Tarot: Unknown
-Title: The Best Poisoner In Megiddo
+Moniker: The Best Poisoner In Megiddo
 Position: Shop Owner
 Origin: Unknown
 Country: The Toshkan Empire

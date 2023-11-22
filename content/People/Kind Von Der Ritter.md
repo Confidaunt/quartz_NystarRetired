@@ -2,7 +2,7 @@
 Name: Kind Von Der Ritter
 Race: Unknown
 Tarot: Unknown
-Title: The Eighth Pillar
+Moniker: The Eighth Pillar
 Position: Lord Kaiser
 Origin: Unknown
 Country: Unknown

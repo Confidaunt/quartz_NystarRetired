@@ -2,7 +2,7 @@
 Name: Gareth Soders
 Race: Unknown
 Tarot: Unknown
-Title: The First Pillar
+Moniker: The First Pillar
 Position: The High Warden of the Toshkan Empire
 Origin: Unknown
 Country: The Toshkan Empire

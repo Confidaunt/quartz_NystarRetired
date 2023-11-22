@@ -2,7 +2,7 @@
 Name: Marigold Fairbanks
 Race: Goblin
 Tarot: Unknown
-Title: None
+Moniker: None
 Position: Deputy Director
 Origin: Unknown
 Country: The Toshkan Empire

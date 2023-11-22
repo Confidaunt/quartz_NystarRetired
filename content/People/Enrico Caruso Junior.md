@@ -2,7 +2,7 @@
 Name: Enrico Caruso Junior
 Race: Human
 Tarot: Unknown
-Title: The Third Pillar
+Moniker: The Third Pillar
 Position: Grand Chancellor of the Senate
 Origin: Unknown
 Country: The Toshkan Empire

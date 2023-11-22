@@ -2,7 +2,7 @@
 Name: Sway
 Race: Half-Elf
 Tarot: The Judgement
-Title: None
+Moniker: None
 Position: None
 Origin: "[[The Holy Dominion of Forgiveness]]"
 Country: The Toshkan Empire
