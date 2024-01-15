@@ -1,6 +1,7 @@
 ---
-author: Me
-authorlink: [[Chastain]]
+nextnote:
+author: Giacomo
+authorlink: https://github.com/gamberoillecito
 ---
 
 authortest
