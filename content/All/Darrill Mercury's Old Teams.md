@@ -1,3 +1,7 @@
+---
+author: Me
+---
+
 The Zhire conflict retired 12 years prior. Since then Mercury has been through 9 teams in 12 years. 
 
 The Gold Wardens: Five Adventurers. Died 10 months into Mercury’s mentorship. Took on an 
