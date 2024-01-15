@@ -1,7 +1,7 @@
 ---
 nextnote: 
 author: Giacomo
-authorlink: "[[Chastain]]"
+authorlink: www.google.com
 ---
 
 authortest
