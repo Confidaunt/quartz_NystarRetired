@@ -1,7 +1,7 @@
 ---
-nextnote:
+nextnote: 
 author: Giacomo
-authorlink: https://github.com/gamberoillecito
+authorlink: "[[Chastain]]"
 ---
 
 authortest
