@@ -1,7 +1,7 @@
 ---
 nextnote: 
 author: Giacomo
-authorlink: www.google.com
+authorlink: https://www.google.com
 ---
 
 authortest
