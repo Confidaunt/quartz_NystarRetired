@@ -19,7 +19,6 @@ import DesktopOnly from "./DesktopOnly"
 import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
-import Author from "./Author"
 import Properties from "./Properties"
 
 export {
@@ -44,6 +43,5 @@ export {
   RecentNotes,
   NotFound,
   Breadcrumbs,
-  Author,
   Properties
 }
