@@ -12,42 +12,38 @@ function createPropertyElement(key: string, value: any) {
   // if the link is present and not empty
   if (value != "") {
     return(
-        <p>
-          {key} : {value}
-        </p>
-      )
+      <p>
+        {key} : {value}
+      </p>
+    )
+  }
+  else {
+    return (
+      <p>{key} : None</p>
+    )
+  }
+}    
+
+export default (() => {
+  function Properties({fileData}: QuartzComponentProps) {
+    var propertiesElements = [] 
+
+    for (const [key, value] of Object.values(fileData.frontmatter ?? {})) {
+      propertiesElements.push(createPropertyElement(key, value))
     }
-    else {
-      return (
-        <p>{key} : None</p>
-        )
-      }
-    }    
 
-    export default (() => {
-      function Properties({fileData}: QuartzComponentProps) {
-        const test = 1
-        var propertiesElements = [] 
-
-        if (test) {
-          for (const [key, value] of Object.values(fileData.frontmatter ?? {})) {
-            propertiesElements.push(createPropertyElement(key, value))
-          }
-          return (
-            <div class="properties">
-            propertiesElements
-            </div>
-            )
-          }
-          else {
-            return (<p></p>)
-          }
-        }
+    return (
+      <div class="properties">
+        propertiesElements
+      </div>
+    )
+  }
         
-        Properties.css = style
-        return Properties
-      }
+    Properties.css = style
+    return Properties
+
+  }
       
-      ) satisfies QuartzComponentConstructor
+) satisfies QuartzComponentConstructor
       
 
