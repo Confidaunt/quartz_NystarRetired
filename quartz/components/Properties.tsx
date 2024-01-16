@@ -27,6 +27,8 @@ function createPropertyElement(key: string, value: any) {
 export default (() => {
   function Properties({fileData}: QuartzComponentProps) {
     var propertiesElements = [] 
+    var message = "These are the properties: "
+
 
     for (const [key, value] of Object.values(fileData.frontmatter ?? {})) {
       propertiesElements.push(createPropertyElement(key, value))
@@ -34,6 +36,7 @@ export default (() => {
 
     return (      
       <div class="properties">
+        <p>{message} </p>
         {propertiesElements}
       </div>
     )
