@@ -32,9 +32,9 @@ export default (() => {
       propertiesElements.push(createPropertyElement(key, value))
     }
 
-    return (
+    return (      
       <div class="properties">
-        propertiesElements
+        {propertiesElements}
       </div>
     )
   }
