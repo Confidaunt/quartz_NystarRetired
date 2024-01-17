@@ -31,13 +31,12 @@ export default (() => {
 
 
     for (const [key, value] of Object.values(fileData.frontmatter ?? {})) {
-      propertiesElements.push(createPropertyElement(key, value))
+      //propertiesElements.push(createPropertyElement(key, value))
     }
 
     return (      
       <div class="properties">
         <p>{message} </p>
-        {propertiesElements}
       </div>
     )
   }
