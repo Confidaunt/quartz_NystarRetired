@@ -32,8 +32,8 @@ export default (() => {
 
     if(Object.keys(fileData.frontmatter ?? {}).length > 0){
       for (const [key, value] of Object.values(fileData.frontmatter ?? {})) {
-        console.log(key + " : " +value)
-        propertiesElements.push(createPropertyElement(key, value))
+        console.log({key} + " : " + {value})
+        //propertiesElements.push(createPropertyElement(key, value))
       }
     }
 
