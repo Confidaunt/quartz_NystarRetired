@@ -28,17 +28,18 @@ export default (() => {
   function Properties({fileData}: QuartzComponentProps) {
     var propertiesElements = [] 
     var numofProperties = Object.keys(fileData.frontmatter ?? {}).length
-    var message = "These are the properties: " + numofProperties
+    var message = "These are the properties: "
 
-    //if(Object.keys(fileData.frontmatter ?? {}).length != 0){
-    //  for (const [key, value] of Object.values(fileData.frontmatter ?? {})) {
-    //    propertiesElements.push(createPropertyElement(key, value))
-    //  }
-    //}
+    if(Object.keys(fileData.frontmatter ?? {}).length > 0){
+      for (const [key, value] of Object.values(fileData.frontmatter ?? {})) {
+        console.log(key + " : " +value)
+        propertiesElements.push(createPropertyElement(key, value))
+      }
+    }
 
     return (      
       <div class="properties">
-      <p>{message} : {message}</p>
+      <p>{message}</p>
       </div>
     )
   }
