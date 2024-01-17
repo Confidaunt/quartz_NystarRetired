@@ -27,18 +27,18 @@ function createPropertyElement(key: string, value: any) {
 export default (() => {
   function Properties({fileData}: QuartzComponentProps) {
     var propertiesElements = [] 
-    var message = "These are the properties: "
+    var numofProperties = Object.keys(fileData.frontmatter ?? {}).length
+    var message = "These are the properties: " + numofProperties
 
-    if(Object.keys(fileData.frontmatter ?? {}).length != 0){
-      for (const [key, value] of Object.values(fileData.frontmatter ?? {})) {
-        propertiesElements.push(createPropertyElement(key, value))
-      }
-    }
+    //if(Object.keys(fileData.frontmatter ?? {}).length != 0){
+    //  for (const [key, value] of Object.values(fileData.frontmatter ?? {})) {
+    //    propertiesElements.push(createPropertyElement(key, value))
+    //  }
+    //}
 
     return (      
       <div class="properties">
       <p>{message} </p>
-      {propertiesElements}
       </div>
     )
   }
