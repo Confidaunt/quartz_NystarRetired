@@ -38,7 +38,7 @@ export default (() => {
 
     return (      
       <div class="properties">
-      <p>{message} </p>
+      <p>{message} does it need quotes?</p>
       </div>
     )
   }
