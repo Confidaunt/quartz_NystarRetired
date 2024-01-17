@@ -1,4 +1,4 @@
-import  style from "./styles/author.scss"
+import  style from "./styles/properties.scss"
 import { FullSlug, _stripSlashes, joinSegments, pathToRoot } from "../util/path"
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { URL } from "url"
@@ -6,75 +6,47 @@ import { hostname } from "os"
 import { range } from "d3"
 import { JSXInternal } from "preact/src/jsx"
 
-function createAuthorElement(author: string, link: string) {
-  author = author.trim()
-  link = link.trim()
+function createPropertyElement(key: string, value: any) {
+  key = key.trim()
+  value = value.trim()
   // if the link is present and not empty
-  if (link.replaceAll(" ", "") != "") {
-    const authorUrl = new URL(link)
-
-    var image_element = null
-    if (authorUrl.hostname == "github.com") {
-      image_element = <img src={authorUrl + ".png"} alt=""/>
-    }
-
+  if (value != "") {
     return(
-      <div class="authorWLink">
-        <a href={link} >
-          {author}
-        </a>
-      {image_element}
-      </div>
-      )
-    }
-    else {
-      return (
-        <code class="name">{author}</code>
-        )
-      }
-    }
-    
-function cleanTooManyAuthors(authorsElements:JSXInternal.Element[], maxShown: number= 2) {
-  if (authorsElements.length <= maxShown) {
-    return authorsElements
+      <p>
+        {key} : {value}
+      </p>
+    )
   }
+  else {
+    return (
+      <p>{key} : None</p>
+    )
+  }
+}    
 
-  var shownElements = authorsElements.slice(0, maxShown)
-  var hiddenAuthors = (
-    <div class="hiddenAuthors"> <div class="hiddenAuthorsContainer">{authorsElements.slice(maxShown, authorsElements.length)}</div></div>
-  )
-  return [...shownElements, hiddenAuthors]
-}
-    export default (() => {
-      function Author({fileData}: QuartzComponentProps) {
-        const authors = fileData.frontmatter?.author?.split(",")
-        const authorLinks = fileData.frontmatter?.authorlink?.split(",")
-        var authorsElements = [] 
+export default (() => {
+  function Properties({fileData}: QuartzComponentProps) {
+    var propertiesElements = [] 
+    var message = "These are the properties: "
 
-        if (authors) {
-          var message = "This note was written by"
-          for (var i of range(authors.length)) {
-            var link = ""
-            if (i < authorLinks?.length) {
-              link = authorLinks[i]
-            }
-            authorsElements.push(createAuthorElement(authors[i], link))
-          }
-          return (
-            <div class="author">
-            <p>{message} </p>
-            {cleanTooManyAuthors(authorsElements)}
-            </div>
-            )
-          }
-          else {
-            return (<p></p>)
-          }
-        }
+
+    for (const [key, value] of Object.values(fileData.frontmatter ?? {})) {
+      propertiesElements.push(createPropertyElement(key, value))
+    }
+
+    return (      
+      <div class="properties">
+        <p>{message} </p>
+        {propertiesElements}
+      </div>
+    )
+  }
         
-        Author.css = style
-        return Author
-      }
+    Properties.css = style
+    return Properties
+
+  }
       
-      ) satisfies QuartzComponentConstructor
+) satisfies QuartzComponentConstructor
       
+
