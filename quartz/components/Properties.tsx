@@ -30,9 +30,9 @@ export default (() => {
     var message = "These are the properties: "
 
 
-    for (const [key, value] of Object.values(fileData.frontmatter ?? {})) {
+    //for (const [key, value] of Object.values(fileData.frontmatter ?? {})) {
       //propertiesElements.push(createPropertyElement(key, value))
-    }
+    //}
 
     return (      
       <div class="properties">
