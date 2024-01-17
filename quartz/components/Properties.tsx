@@ -30,12 +30,12 @@ export default (() => {
     var numofProperties = Object.keys(fileData.frontmatter ?? {}).length
     var message = "These are the properties: "
 
-    //if(Object.keys(fileData.frontmatter ?? {}).length > 0){
-    //  for(const [key, value] of Object.values(fileData.frontmatter ?? {})) {
-     //   console.log(key)
-     //   //propertiesElements.push(createPropertyElement(key, value))
-     // }
-    //}
+    if(Object.keys(fileData.frontmatter ?? {}).length > 0){
+      for(const key of Object.values(fileData.frontmatter ?? {})) {
+        console.log(key)
+        //propertiesElements.push(createPropertyElement(key, value))
+      }
+    }
 
     return (      
       <div class="properties">
