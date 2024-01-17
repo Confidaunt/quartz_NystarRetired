@@ -31,8 +31,8 @@ export default (() => {
     var message = "These are the properties: "
 
     if(Object.keys(fileData.frontmatter ?? {}).length > 0){
-      for (const [key, value] of Object.values(fileData.frontmatter ?? {})) {
-        console.log({key} + " : " + {value})
+      for(const [key, value] of Object.values(fileData.frontmatter ?? {})) {
+        console.log(key)
         //propertiesElements.push(createPropertyElement(key, value))
       }
     }
