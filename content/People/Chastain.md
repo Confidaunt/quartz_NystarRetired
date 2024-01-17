@@ -18,9 +18,6 @@ Associates:
   - None
 isDead: false
 Cause: None
-tags:
-  - "[[Oksandra Cornetto]]"
-  - "[[Tenpenny]]"
 ---
 Summary:
 What appeared to be a very normal and competent Inquisitor is instead a submissive gambling addict with an exhibition fetish married to [[Oksandra Cornetto]], owner and Adjudicator of the Golden Lounge.

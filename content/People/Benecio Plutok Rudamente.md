@@ -8,8 +8,7 @@ Origin: Unknown
 Country: The Toshkan Empire
 Region: Megiddo
 City: Megiddo
-Organization:
-  - "[[The Looking Glass Ravens]]"
+Organization: []
 Allies:
   - None
 Enemies:
@@ -20,9 +19,9 @@ isDead: false
 Cause: None
 ---
 Summary:
-A member of the defunct [[The Looking Glass Ravens]]. Darryl has called him a 'heartbreaker' and warned Griff to look out for him. He and Darryl have a complicated relationship as she was once a slave to his father who he killed at some point. He also has a brother [[Victor Rudamente]].
+A member of the defunct The Looking Glass Ravens. Darryl has called him a 'heartbreaker' and warned Griff to look out for him. He and Darryl have a complicated relationship as she was once a slave to his father who he killed at some point. He also has a brother Victor Rudamente.
 
-He's actively trying to destroy the Roundtable. He's offered the Legendseekers a bounty for any information we can provide him about the Roundtable. He and the Looking Glass Ravens discovered the interference of the Roundtable and took a stand against it. For their efforts, they were poisoned by Benecio's Mist that was stolen by Roundtable member [[Arthur]], who appeared to die in the aftermath during the Taashire incident.
+He's actively trying to destroy the Roundtable. He's offered the Legendseekers a bounty for any information we can provide him about the Roundtable. He and the Looking Glass Ravens discovered the interference of the Roundtable and took a stand against it. For their efforts, they were poisoned by Benecio's Mist that was stolen by Roundtable member Arthur, who appeared to die in the aftermath during the Taashire incident.
 
 On the Underground, Juliet discovered him in an underground meeting observing Thorn(fake). He sees the Underground as pointless and there will be fighting no matter what is done. 
 

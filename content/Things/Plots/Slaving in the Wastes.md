@@ -1,1 +1,0 @@
-Members: [[Esmerelda]], [[Escobar]], [[Chester]]
