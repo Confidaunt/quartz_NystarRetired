@@ -29,14 +29,16 @@ export default (() => {
     var propertiesElements = [] 
     var message = "These are the properties: "
 
-
-    //for (const [key, value] of Object.values(fileData.frontmatter ?? {})) {
-      //propertiesElements.push(createPropertyElement(key, value))
-    //}
+    if(Object.keys(fileData.frontmatter ?? {}).length != 0){
+      for (const [key, value] of Object.values(fileData.frontmatter ?? {})) {
+        propertiesElements.push(createPropertyElement(key, value))
+      }
+    }
 
     return (      
       <div class="properties">
-        <p>{message} </p>
+      <p>{message} </p>
+      {propertiesElements}
       </div>
     )
   }
