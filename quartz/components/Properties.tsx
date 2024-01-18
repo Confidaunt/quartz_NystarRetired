@@ -7,40 +7,33 @@ import { range } from "d3"
 import { JSXInternal } from "preact/src/jsx"
 
 function createPropertyElement(key: string, value: any) {
-  key = key.trim()
-  //value = value.trim()
-  // if the link is present and not empty
   if (value != "") {
     return(
-      <p>
+      <li>
         {key} : {value}
-      </p>
+      </li>
     )
   }
   else {
     return (
-      <p>{key} : None</p>
+      <li>{key} : None</li>
     )
   }
-}    
+}
 
 export default (() => {
   function Properties({fileData}: QuartzComponentProps) {
     var propertiesElements = [] 
-    var numofProperties = Object.keys(fileData.frontmatter ?? {}).length
-    var message = "These are the properties: "
 
     if(Object.keys(fileData.frontmatter ?? {}).length > 0){
       for (const [key, value] of Object.entries(fileData.frontmatter ?? {})) {
-        //console.log(key + " : " + value)
         propertiesElements.push(createPropertyElement(key, value))
       }
     }
 
     return (      
       <div class="properties">
-      <p>{message}</p>
-      {propertiesElements}
+        <ul>{propertiesElements}</ul>
       </div>
     )
   }
