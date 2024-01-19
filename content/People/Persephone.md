@@ -17,7 +17,7 @@ Associates:
   - None
 isDead: false
 Cause: None
-draft: false
+draft: true
 ---
 Summary:
 A summoner, called the White Witch, whom every inch of her body is white. Uses the life of the faithful and sinners alike to summon great things to do battle to protect Maodokanna's teachings. Sway has not had direct interaction with her, simply due to regional space. Her Iron Shepard's name is Johnathon.
