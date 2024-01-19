@@ -1,0 +1,4 @@
+---
+draft: false
+---
+The goddess of faith, law, order, autonomy, dignity, and justice. The first empyrean, and considered an acolyte of all that which punishes the wicked and rewards the good. Uncompromising for the sake of justice, she is diametrically opposed to fiends, demons, fey, and all that is chaotic, but is reviled devils, angels, and all those whom strive for order in the opposition of Chaos. Often depicted as a nine winged empyrean angel with grey skin and black wings. One of the premier gods of the Irisian and Toshkan Empires, and temples of her worship are common internationally. Worship of her is known to be something of an internal conflict within the drawing lines between those who idealize the Sovereign, and those who serve Queen Hypatia, whom is a devout follower. Holy Symbol is depicted as a Hammer falling down onto a tome of laws, while her holy weapon is of a great war hammer. Her colors are black and gold.

@@ -1,0 +1,4 @@
+---
+draft: false
+---
+The now home of Queen [[Jessamine Hypatia]]. The city of waterfalls is known for its endless beauty, incredible architecture, and celebration of culture. The Royal Palace sits high atop a mountain of waterfalls flowing in reverse. The Rising Falls is but one of the Nine Wonders of the Modern World and is a source of great personal pride for The Hypatian Royal Family. The Protection of Albion is handled directly by [[Gareth Soders]]. He is said to have personally trained and appointed every single member of the Krimhildan's, the Knights whose only oath is the everlasting protection of the Queen.

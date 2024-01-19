@@ -1,0 +1,14 @@
+---
+draft: true
+---
+Everything that we do is sinful. 
+For there is only one sin, and it is the most fundamentally selfish and human sin possible, and that is the Sin of Want. Leave your Pride, your greed, and your lust. There is only Want. To want for life, to want for death, to want for sexual satisfaction, to want for a life you think you deserve, a death you think you are owed, forgiveness that you've been denied? It all circles back to Want. The most profound Sin that there can be, is the simple sin of existing. The selfishness of living, the selfishness of dying. All of it is part of the same melting pot that is the kin of the worlds desperate Want, a testament to their ingratitude. 
+
+Sin is the most beautiful thing there is.
+It is not right to be ashamed of your sins. Sinning is beautiful, without exception. No depravity, perversion, atrocity, humiliation, is looked at any more negatively than any other would be. To want to see friends, is just a grave a sin as murder. To sin, is to make a proud statement that one is alive, and must beg for forgiveness before the feet of the Confessor.  To show your lowliness of your sins is an admittance of humility This itself an inherently sinful and selfish act, for how dare you think yourself better than others for simply admitting your sins? There is no superiority in 
+
+There is only one god, and their name is Maodokanna
+The only truth in the world is pain. To this end, the only true God is Maodokanna. Other gods are mere pretenders, enraptured with their hopelessly adorable delusions that there can be anything more to life than want. Any whom protest this is being pedantic.  Gods feel pain, the kin of the world feel, Maodokanna is the one whom governs that pain, Maodokanna is the one who governs all. 
+
+There is only one language in the world, and that language is pain.
+Pain is the great unifier. That which makes all equal under the Yellow Crown of Maodokanna. Pain is second only to Want as the greatest example of us being alive. For how can you bask in the peaks of euphoria without descending into the valleys of despair? The only way to truly appreciate life, is the greet suffering with open arms like a friend. To accept the violations of strangers, the hatred of friends, the torture of the mind, body, and soul. The true, brutal, and pure agony of suffering will make you as close to Maodokanna as one can be. Only through pain, only through suffering, will you not only find peace, but purpose. The sin of Want is the core of all things. To want is to show the greatest ingratitude towards life. Because of this unavoidable sin, one must suffer. And through that suffering one can comprehend the true value of life that they have been given.  Through our purpose in life, which is to suffer, we may know the mercy of true joy.
