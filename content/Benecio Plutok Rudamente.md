@@ -8,9 +8,9 @@ Origin: Unknown
 Country: The Toshkan Empire
 Region: Megiddo
 City: Megiddo
-Organization: []
+Organization: 
 Allies:
-  - None
+  - "[[Carrol Jupiter]]"
 Enemies:
   - The Roundtable
 Associates:

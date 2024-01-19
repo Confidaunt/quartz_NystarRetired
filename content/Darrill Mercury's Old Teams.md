@@ -2,6 +2,8 @@
 nextnote: 
 author: Giacomo
 authorlink: https://www.google.com
+Allies:
+  - None
 ---
 
 The Zhire conflict retired 12 years prior. Since then Mercury has been through 9 teams in 12 years. 

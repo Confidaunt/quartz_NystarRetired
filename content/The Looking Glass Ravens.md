@@ -8,7 +8,8 @@ Archivist: Unknown
   - "[[Benecio Plutok Rudamente]]"
 "Members, Previous": Unknown
 Allies:
-  - Few
+  - "[[Carrol Jupiter]]"
+  - "[[Benecio Plutok Rudamente]]"
 Enemies:
   - Many
 Associates:
