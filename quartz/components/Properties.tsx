@@ -6,7 +6,7 @@ import { hostname } from "os"
 import { range } from "d3"
 import { JSXInternal } from "preact/src/jsx"
 
-function createPropertyElement(fileData: any, opts : any, value: string) {
+function createLinkedElement(fileData: any, opts : any, value: string) {
  
   let cleanedValue = value.replace(/['"\[\]]+/g, '')
   let href = transformLink(fileData.slug!, cleanedValue, opts)
@@ -16,6 +16,20 @@ function createPropertyElement(fileData: any, opts : any, value: string) {
   )
 }
 
+function createPropertyElement(key: string, value: any) {
+  if (value != "") {
+    return(
+      <li>
+        {key} : {value}
+      </li>
+    )
+  }
+  else {
+    return (
+      <li>{key} : None</li>
+    )
+  }
+}
 
 export default (() => {
   function PropertiesWithWorkingLinks({fileData, allFiles}: QuartzComponentProps, ) {
@@ -25,39 +39,51 @@ export default (() => {
     }
 
     var propertiesElements = [] 
+
+    if(Object.keys(fileData.frontmatter ?? {}).length > 0){
+      for (const [key, value] of Object.entries(fileData.frontmatter ?? {})) {
+        propertiesElements.push(createPropertyElement(key, value))
+      }
+    }
+
+    return (      
+      <div class="properties">
+        <ul>{propertiesElements}</ul>
+      </div>
+    )
+
+
+/*
+    var linkedElements = [] 
     const valueArray = fileData.frontmatter?.Allies
 
-    let valueString = ""
     for (const [index, arrayItem] of Object.entries(valueArray ?? {})) {
       var entry = valueArray[index]
       if(entry.includes("[[")){
         if(Number(index) > 0){
-          propertiesElements.push(", ")
+          linkedElements.push(", ")
         }
-
-        propertiesElements.push(createPropertyElement(fileData, opts, entry))
+        linkedElements.push(createLinkedElement(fileData, opts, entry))
       }
       else{
-        propertiesElements.push(entry)
-        console.log("Not a Link: " + entry)
+        linkedElements.push(entry)
       }
     }
-    console.log(valueArray)
 
     return (      
       <div class="properties">
-        <p>{propertiesElements}</p>
+        <p>{linkedElements}</p>
       </div>
     ) 
-    
+    */
     //var valueArray = value?.split(",")
     //console.log(valueArray)
-    //propertiesElements.push(createPropertyElement(fileData, valueArray, opts))
+    //linkedElements.push(createPropertyElement(fileData, valueArray, opts))
 
 
     //return (      
     //  <div class="properties">
-    //    <ul>{propertiesElements}</ul>
+    //    <ul>{linkedElements}</ul>
     //  </div>
     // )
 
@@ -80,7 +106,7 @@ export default (() => {
     //return (
     //  <p><a  href={href} class="internal">{value}</a></p>
     //)
-        //<ul>{propertiesElements}</ul>
+        //<ul>{linkedElements}</ul>
 
 
 
