@@ -38,11 +38,25 @@ export default (() => {
       allSlugs: allFiles.map((fp) => fp.slug as FullSlug)
     }
 
-    var propertiesElements = [] 
+    var propertiesElements = []
 
     if(Object.keys(fileData.frontmatter ?? {}).length > 0){
       for (const [key, value] of Object.entries(fileData.frontmatter ?? {})) {
-        propertiesElements.push(createPropertyElement(key, value))
+
+        var linkedElements = [] 
+        for (const [index, arrayItem] of Object.entries(value ?? {})) {
+          var entry = value[index]
+          if(entry.includes("[[")){
+            if(Number(index) > 0){
+              linkedElements.push(", ")
+            }
+            linkedElements.push(createLinkedElement(fileData, opts, entry))
+          }
+          else{
+            linkedElements.push(entry)
+          }
+        }
+        propertiesElements.push(createPropertyElement(key, linkedElements))
       }
     }
 
