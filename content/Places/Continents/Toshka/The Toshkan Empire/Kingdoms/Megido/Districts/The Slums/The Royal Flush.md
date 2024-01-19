@@ -1,4 +1,4 @@
 ---
 draft: false
 ---
-A bar and home owned by Darrill Mercury.
+A bar and the home of [[Darrill Mercuria]]. Owned by [[Ozwald]]. 

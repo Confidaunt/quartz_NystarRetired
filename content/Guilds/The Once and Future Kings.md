@@ -17,8 +17,8 @@ isDisbanded: false
 Cause: None
 draft:
 ---
-Summary: 
+A team of two, [[Lars Beaumont]] and [[Sixer]]. Seems like a paladin and rogue as [[The Legendseekers]] have seen Lars smite and Sixer move very quickly. 
 
-First Met: Juliet met them in a train bar. Griff knew Lars from his childhood. Everyone was properly introduced during the Annual Beast Hunt.
+[[Juliet Amrankur LeBeaux]] met them in the [[Tiny Train Bar]]. [[Griff Whiteflower]] knows Lars from his childhood. Everyone was properly introduced during the Annual Beast Hunt.
 
-Last Met: 
+

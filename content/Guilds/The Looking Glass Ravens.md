@@ -4,6 +4,8 @@ Level: 7
 Status: Inactive
 Archivist: Unknown
 "Members, Current":
+  - None
+"Members, Previous":
   - "[[Darrill Mercuria]]"
   - "[[Venus Fantasia]]"
   - "[[Terra Dorminin]]"
@@ -13,19 +15,13 @@ Archivist: Unknown
   - "[[Ura Fracture]]"
   - "[[Forda Neptuna]]"
   - "[[Benecio Plutok Rudamente]]"
-"Members, Previous": Unknown
 Allies:
   - Few
-Enemies:
-  - Many
+Enemies: Many
 Associates:
   - None
 isDisbanded: true
 Cause: Unknown
 draft:
 ---
-Summary: The highest ranking adventuring guild ever. Also no longer in operation and the members seem kinda fucked up.
-
-First Met: 
-
-Last Met: 
+The highest ranking adventuring guild ever. Also no longer in operation and the members seem kinda fucked up.

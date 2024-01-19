@@ -15,9 +15,3 @@ isDisbanded: false
 Cause: None
 draft:
 ---
-Summary:
-
-First Met: 
-
-Last Met: 
-

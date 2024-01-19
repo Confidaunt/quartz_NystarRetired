@@ -18,9 +18,8 @@ isDisbanded: false
 Cause: None
 draft:
 ---
-Summary:
+A team of three: [[Whistler]], [[Cooke]], and [[Hogar]]. They were encountered in the sewers while [[The Legendseekers]] were trying to find our way back up to the surface after disabling the bomb train. Whistler's kid sister, [[Sofina]], tagged along into the sewers and was injured. 
 
-First Met: 
+[[Kirby]] showed them the way to the Night Market.
 
-Last Met: 
-
+[[Kalos]] assisted with the poisoning and the weresharkism that Whistler and Cooke suffered from respectively. 

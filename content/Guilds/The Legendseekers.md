@@ -20,13 +20,9 @@ Associates:
   - "[[The Sewer Kids]]"
   - "[[The Windbreakers]]"
 isDisbanded: false
-Cause: None
+Cause: Friendship
 draft:
 ---
-Summary:
-The Team!
+Hey! That's us!
 
-First Met: 
-
-Last Met: 
-
+The tenth guild that [[Darrill Mercuria]] mentored. She was their mentor for at two days before running away. Which, I mean, considering everything, is fair.
