@@ -19,10 +19,4 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary: Dawn, the precocious mage who was very short sun elf, fire druid. She and Kezza live in the slums. Her mom also lives in the slums and is sick. 
-
-Appearance: 
-
-First Met: 
-
-Last Met: 
+Dawn is a short sun elf and a precocious fire druid. She, [[Gael]] and [[Keza]] live in the slums. Her mom also lives in the slums and is sick. 

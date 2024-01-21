@@ -1,0 +1,1 @@
+It happened in [[Zhire]]. Attended by [[The Looking Glass Ravens]], [[Arthur]], and others unknown. This is when Arthur stole [[The Mist]] and the Ravens burned through their connection to the Loom to fight it, kill Arthur, and die themselves. [[Nystar/People/Koyuki|Koyuki]] was brought back by as a baby with no memories by [[Darrill Mercuria]] after this incident. 

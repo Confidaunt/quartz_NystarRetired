@@ -19,7 +19,6 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary:
 Benecio's brother who really doesn't like him. Once Sway's main suspect for who is killing Mercury's teams. He likely has some kind of monitoring on Benecio's Tower as it was bombed after the reality pearl protecting it was triggered.
 
 He was discovered by finding a job posting that was removed shortly after it was posted. The Sewer Kids were the ones to provide the posting.
@@ -35,9 +34,3 @@ He is sleeping when he's confronted by Lars and Griff who ask him if it's possib
 Sway goes back for seconds and confirms that Oksana Cornetto is untouched by and unknown to Victor. Victor is then a little bitch about getting the door shut on him.
 
 "How's this for petty family drama?"
-
-Appearance: 
-
-First Met: 
-
-Last Met: 

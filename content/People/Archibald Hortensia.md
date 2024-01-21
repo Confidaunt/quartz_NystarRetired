@@ -17,13 +17,4 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary:
-Archibald Hortensia, Pontiff of the Everlasting Sovereign, The Fifth Pillar. Pontiff Archibald Hortensia is the influential leader of the church. His life long dedication to the Sovereign, vow of celibacy, and charismatic personality has led his Archbishops across the Empire into positions of power that has led them to earn the blasphemous informal nickname of the "Lower Pillars." Known for his close friendship with the Queen and Kaiser, he loves all. He will not rest, until even the lowliest of heretics finds peace. 
-
-Appearance: 
-
-First Met: 
-
-Last Met: 
-
-
+Archibald Hortensia, Pontiff of the Everlasting Sovereign, The Fifth Pillar. Pontiff Archibald Hortensia is the influential leader of the church. His life long dedication to the [[Krimhilda|Sovereign]], vow of celibacy, and charismatic personality has led his Archbishops across the Empire into positions of power that has led them to earn the blasphemous informal nickname of the "Lower Pillars." Known for his close friendship with the [[Jessamine Hypatia|Queen]] and [[Kind Von Der Ritter|Kaiser]], he loves all. He will not rest, until even the lowliest of heretics finds peace.

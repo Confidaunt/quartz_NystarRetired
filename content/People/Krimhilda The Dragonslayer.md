@@ -18,7 +18,6 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary:
 The Everlasting Sovereign, The Everlasting Sovereign, the Ninth Pillar.
 
 She who rules over the empire with supreme authority and without challenge to her claim. The other eight pillars most work in harmony to rule, but none should lose their place to forget that all answer to the Everlasting Sovereign. Unseen and unheard of for the better part of 150 years, some question if she is even alive.
@@ -50,9 +49,3 @@ Razorback wings that had cut through the many sky ships that threatened him, wer
 The world would watch on with shock and awe, at the sight of Krimhilda, the head of Fafnir overhead. 
 
 On that day, The Age of the Sovereign was born in blood.
-
-Appearance: 
-
-First Met: 
-
-Last Met: 

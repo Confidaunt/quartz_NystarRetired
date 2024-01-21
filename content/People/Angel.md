@@ -19,10 +19,4 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary: The child of Darrill Mercuria. Killed on a mission for the Moonlight Archives to retrieve Persephone. 
-
-Appearance: 
-
-First Met: 
-
-Last Met: 
+Summary: The child of [[Darrill Mercuria]] and sibling to [[Charlie]], [[Victor Von Rudamente]], and [[Benecio Plutok Rudamente]]. Killed on a mission for the Moonlight Archives to retrieve Persephone. Previous member of [[Heroes Quest]].

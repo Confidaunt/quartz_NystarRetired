@@ -18,13 +18,5 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary:
 "A Fighter Unmatched" - [[Benecio Plutok Rudamente]]
-
-Appearance: 
-
-First Met: 
-
-Last Met: 
-
 

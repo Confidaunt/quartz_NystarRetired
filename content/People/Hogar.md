@@ -20,12 +20,4 @@ isDead: true
 Cause: Hydra Ball
 draft: false
 ---
-Summary:
 Duergar, deceased. Killed by the sewer hydra.
-
-Appearance: 
-
-First Met: 
-
-Last Met: 
-

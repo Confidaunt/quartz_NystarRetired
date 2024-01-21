@@ -19,10 +19,4 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary: A nice drow lady who likes to rain on [[Lars Beaumont]]'s parade. They are both members of The Once And Future Kings. She claims immunity to Zone of Truth.
-
-Appearance: A drow woman, seems like a rogue
-
-First Met: 
-
-Last Met: 
+A nice drow lady who likes to rain on [[Lars Beaumont]]'s parade. They are both members of The Once And Future Kings. She claims immunity to Zone of Truth.

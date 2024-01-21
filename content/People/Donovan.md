@@ -18,14 +18,5 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary:
-He knows Deputy Director Marigold. He's working on a non fiction book. He's in the I've Met Sway support group.
-
-Appearance: 
-
-First Met: 
-During the trip to the slums.
-
-Last Met: 
-He hopes for never again.
+Donovan is a carriage driver that dreams of being a non fiction author. He's the first member of the public that [[The Legendseekers]] meet. He knows Deputy Director Marigold. He's working on a non fiction book. He's in the I've Met Sway support group.
 

@@ -18,11 +18,4 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary: 
-
-Appearance: 
-
-First Met: 
-
-Last Met: 
 Is a good boy. [[Griff Whiteflower]]'s Iron Defender.

@@ -21,13 +21,8 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary:
-A very stressed looking Sun Elf. He surrendered to the Haven Guard when there was a suspicion that his teammate [[Mars DeWinter]] was behind the attack on the Queen. 
+He's the Captain of [[The Haven Guard]]. Carroll was first encountered by [[The Legendseekers]] after we crashed [[Esmerelda]] airship into the stadium where Chancellor [[Enrico Caruso Junior]] was celebrating his twelfth birthday. He had something to do with our guild being assigned to Mercury.
 
-Appearance: 
+After the assassination attempt on Queen [[Jessamine Hypatia]], he willingly surrendered to the Haven Guard as it was suspected that [[Mars DeWinter]] may have been behind the attack. His role was temporarily assigned to Captain [[Flynn]].
 
-First Met: 
-During the aftermath of [[Esmerelda]]'s airship crash into a stadium during a tournament for [[Enrico Caruso Junior]].
 
-Last Met: 
-Same as above

@@ -18,12 +18,4 @@ isDead: false
 Cause: None
 draft: true
 ---
-Summary:
-A handler of other Iron Shepherds. More refined in his tactics. Currently hunting for The 35th Confessor.
-
-Appearance: 
-
-First Met: 
-In Sway's childhood.
-
-Last Met: 
+A handler of other Iron Shepherds. More refined in his tactics. Currently hunting for The 35th Confessor. Sway has known him since childhood.

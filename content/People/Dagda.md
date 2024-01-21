@@ -20,10 +20,8 @@ isDead: true
 Cause: Assassination
 draft: false
 ---
-Summary:
+The King and father of [[Bazett Scáthach Dagda]]. [[Benecio Plutok Rudamente]] claimed that he was a member of [[The Knights of the Round Table]] known as [[Morganna]]. Benecio further claimed that the Round Table killed him because Benecio was getting too close to discovering him. 
 
-Appearance: 
+[[Sir Peter Chamberlin Cottontail]] noted that King Dagda was acting irrationally near the end of his life. 
 
-First Met: 
-
-Last Met: 
+[[Nystar/People/Cerberus|Cerberus]] mentioned that she "Hopes they find the culprit soon."

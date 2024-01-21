@@ -18,13 +18,5 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary:
 "I met him in Fafnir. He's no longer an issue" - [[Benecio Plutok Rudamente]]
-
-Appearance: 
-
-First Met: 
-
-Last Met: 
-
 

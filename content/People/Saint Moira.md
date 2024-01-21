@@ -19,11 +19,4 @@ isDead: false
 Cause: None
 draft: true
 ---
-Summary:
 She regarded as a saint for her great many deeds to the cause. Wanting only to bring ultimate mercy onto the world, she served alongside the Archangel of Fire to bring great mercy onto the world. If not for betrayal and being struck down by the realm ripper, she would have succeeded in providing the world with the ultimate mercy, the forgiveness of all sin.
-
-Appearance: 
-
-First Met: 
-
-Last Met: 

@@ -16,11 +16,4 @@ isDead: false
 Cause: None
 draft: true
 ---
-Summary:
-Guardian of the White Witch, Persephone. 
-
-Appearance: 
-
-First Met: 
-
-Last Met: 
+Guardian of the White Witch, [[Persephone]]. 

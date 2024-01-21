@@ -8,22 +8,16 @@ Origin: Unknown
 Country: Unknown
 Region: Unknown
 City: Unknown
-Organization: None
+Organization:
+  - None
 Allies:
   - None
-Enemies: None
+Enemies:
+  - None
 Associates:
   - None
-isDead: false
-Cause: None
+isDead: true
+Cause: Sway
 draft: false
 ---
-Summary:
-
-Appearance: 
-
-First Met: 
-
-Last Met: 
-
 A man encountered in mount Megadeath on death's door. Griff treated him a bit, but was interrupted by a giant death frog summoned by Cronos. He was killed by Sway for a spell slot and pushed into lava. 

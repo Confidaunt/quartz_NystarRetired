@@ -18,10 +18,4 @@ isDead: true
 Cause: None
 draft: false
 ---
-Summary: A fruit seller from the slums that wore heavy cologne. Koyuki identified him after Victor transmuted him into a water elemental as water elementals don't wear cologne or have heartbeats. 
-
-Appearance: 
-
-First Met: 
-
-Last Met: 
+A fruit seller from the slums that wore heavy cologne. Koyuki identified him after Victor transmuted him into a water elemental as water elementals don't wear cologne or have heartbeats. 

@@ -19,10 +19,4 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary:
-
-Appearance: 
-
-First Met: 
-
-Last Met: 
+Brother to Queen [[Jessamine Hypatia]].

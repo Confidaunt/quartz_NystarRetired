@@ -20,11 +20,4 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary:
 A member of the Looking Glass Ravens.
-
-Appearance: 
-
-First Met: 
-
-Last Met: 

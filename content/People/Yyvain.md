@@ -1,5 +1,5 @@
 ---
-Name: 
+Name: Yyvain
 Race: Unknown
 Tarot: Unknown
 Title: None
@@ -8,7 +8,8 @@ Origin: Unknown
 Country: Unknown
 Region: Unknown
 City: Unknown
-Organization: None
+Organization:
+  - None
 Allies:
   - None
 Enemies:
@@ -19,10 +20,4 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary:
-
-Appearance: 
-
-First Met: 
-
-Last Met: 
+Alias of [[Cerberus]] when she's acting as a member of [[The Knights of the Round Table]]. 

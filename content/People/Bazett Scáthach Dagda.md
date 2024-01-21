@@ -19,10 +19,4 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary: The Heir apparent of the Autumn Court and Armagh mourns her father and mother.
-
-Appearance: 
-
-First Met: 
-
-Last Met: 
+The Heir Apparent of the Autumn Court and [[Armagh]] mourns her father, King [[Dagda]], and mother. She is a lovely young woman with bright red hair. 

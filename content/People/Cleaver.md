@@ -18,10 +18,4 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary: 
-Mechnics who we owe the Heatseeker to
-Appearance: 
-
-First Met: 
-
-Last Met: 
+The mechanic that lent us the Heatseeker. 

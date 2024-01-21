@@ -20,10 +20,4 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary: The ruler of [[Chernabog]] and mentioned in it's description.
-
-Appearance: 
-
-First Met: 
-
-Last Met: 
+The ruler of [[Chernabog]] and mentioned in it's description.

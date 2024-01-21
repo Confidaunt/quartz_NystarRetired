@@ -19,13 +19,8 @@ isDead: false
 Cause: None
 draft: true
 ---
-Summary:
-The man in white who came to Sway to remove her from the Children of Mercy in exchange for some of the treasures of the Children of Mercy. Those Tokens of Sin haven't been revealed to the player yet.
+The man in white who came to [[Sway]] to remove her from [[The Holy Dominion of Forgiveness]] in exchange for some of the treasures of the Children of Mercy. Those Tokens of Sin haven't been revealed to the player yet.
 
-Appearance: 
-
-First Met: 
-
-Last Met: 
+He was the one who delivered Patron as a shadow that flitted from himself to Sway.  
 
 

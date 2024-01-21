@@ -20,11 +20,4 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary:
-Mentioned in [[Chernabog]]'s description. Cerberus claims that she is heading the round table with the name Gawain.
-
-Appearance: 
-
-First Met: 
-
-Last Met: 
+Mentioned in [[Chernabog]]'s description. [[Cerberus]] claims that she is heading [[The Knights of the Round Table]] with the name [[Gawain]].

@@ -18,11 +18,4 @@ isDead: true
 Cause: "[[Francis]]"
 draft: false
 ---
-Summary:
 A member of the conspiracy with [[Francis]], [[Dante LeBeaux]], and [[Loomis]].
-
-Appearance: 
-
-First Met: 
-
-Last Met: 

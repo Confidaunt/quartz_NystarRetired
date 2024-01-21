@@ -19,13 +19,4 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary:
 "A Peerless Mage" - [[Benecio Plutok Rudamente]]
-
-Appearance: 
-
-First Met: 
-
-Last Met: 
-
-

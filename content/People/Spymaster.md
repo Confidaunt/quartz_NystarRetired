@@ -19,12 +19,4 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary:
 Spymaster, The Seventh Pillar. Spymaster is an unofficial title used by the public to refer to the head source of the intelligence of the empire. So commonplace is its usage that the actual official title is a frequent joke. The identity of the Spymaster is known only to the Pillars, and is not officially acknowledged as anything but its legal title, Keeper of Lore. Nobody knows who works for the Spymaster, except for the ones that do.
-
-
-Appearance: 
-
-First Met: 
-
-Last Met: 

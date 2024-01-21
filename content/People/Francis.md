@@ -19,8 +19,7 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary:
-[[Kirby]] 'Pink' and Juliet were listening in on a conversation between Francis and Leon:
+A balding man in a Haven Guard uniform. [[Kirby]] 'Pink' and Juliet were listening in on a conversation between Francis and Leon:
 
 "Don't care what Flynn says, once Jupiter's back, our heads will roll. We need to get the kid out. Turtleduck is a last resort if Thorne doesn't hold up their end of the bargain, we'll take the other. You know how they work. ...Four's a crowd"
 
@@ -32,14 +31,4 @@ He has some knowledge of the Night Market. Lumis actively used his changeling po
 
 He organized the group entering into the slums to hunt Victor Von Rudamente. Francis claimed that everyone was evacuated. 
 
-He used to work under [[Beatrix Warshadow, Warden of the North]] at the North Gate of Toshka. 
-
-Appearance: 
-A balding man in a Haven Guard uniform. 
-
-First Met: 
-The overheard conversation.
-
-Last Met: 
-Teleporting out with Dante.
-
+He used to work under [[Beatrix Warshadow]] at [[the North Gate]] of [[Toshka]].

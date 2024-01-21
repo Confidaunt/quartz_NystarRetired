@@ -17,11 +17,5 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary:
-"A conniving bastard." - [[Benecio Plutok Rudamente]] It's unclear if he died in the Mist. Benecio seemed uncertain.
+"A conniving bastard." - [[Benecio Plutok Rudamente]] It's unclear if he died in [[The Mist]]. Benecio seemed uncertain.
 
-Appearance: 
-
-First Met: 
-
-Last Met: 

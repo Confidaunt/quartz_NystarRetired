@@ -18,15 +18,7 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary: 
-
-Appearance: 
-
-First Met: 
-
-Last Met: 
-
-*The Best Familiar Ever!*
+He's literally the best familiar ever!
 ### [Imp(Reskinned)](https://5e.tools/bestiary.html#imp_mm)
 *Tiny Outsider, Lawful Evil, page 76 of the Monster Manual*
 **Armor Class:** 13

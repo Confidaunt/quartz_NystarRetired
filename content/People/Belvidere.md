@@ -17,10 +17,4 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary:
-
-Appearance: 
-
-First Met: 
-
-Last Met: 
+One of [[The Knights of the Round Table]].

@@ -18,10 +18,4 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary: Mentioned by Kirby as the Leader of the Thieves Guild. 
-
-Appearance: 
-
-First Met: 
-
-Last Met: 
+Mentioned by Kirby as the Leader of the Thieves Guild. 

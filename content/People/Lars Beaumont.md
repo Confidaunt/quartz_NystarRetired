@@ -14,21 +14,15 @@ Allies:
 Enemies:
   - None
 Associates:
-  - "[[Maximillian Beaumont, Warden of the West]]"
+  - "[[Maximillian Beaumont]]"
   - "[[Ozwald]]"
 isDead: false
 Cause: None
 draft: false
 ---
-Summary:
-A robust barfly in beat up full armor. He was keeping the company of [[Sixer]] in the bar that Juliet was visiting to drown her Sway related sorrows. He bought Juliet a drink. Lars is a member of The Once and Future Kings adventuring guild, level 3. His guild rep is [[Ozwald]].
+A robust barfly in beat up full armor. He was keeping the company of [[Sixer]] in the bar that Juliet was visiting to drown her Sway related sorrows. He bought Juliet a drink. Lars is a member of [[The Once and Future Kings]] adventuring guild, level 3. His guild rep is [[Ozwald]].
 
-He calls Griff, Griffy. He wears the colors of the Sovereign, black and red. Griff doesn't want to use his name to break the siege of the slums. He's been told about the coup and Sway accidentally mentioned multiple the existence of multiple changelings to him.
+Lars and [[Griff Whiteflower|Griff]] grew up together and he calls him Griffy. He wears the colors of the [[Krimhilda|Sovereign]], black and red. Griff doesn't want to use his name to break the siege of the slums. He's been told about the coup and [[Sway]] accidentally mentioned multiple the existence of multiple changelings to him.
 
-Appearance: 
+He mistakenly attacked [[Dante LeBeaux]] during [[The Attack on the Slums]], thinking he was an enemy. He feels bad about this mistake. 
 
-First Met: 
-Friend of [[Griff Whiteflower]]. Met Juliet in the bar. Met everyone on the start of the Beast Hunt.
-
-Last Met: 
-During the Beast Hunt.

@@ -19,12 +19,4 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary:
-
-"Nos"
-
-Appearance: 
-
-First Met: 
-
-Last Met: 
+Goes by Nos.

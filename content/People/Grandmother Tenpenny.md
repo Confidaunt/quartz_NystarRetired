@@ -18,13 +18,6 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary:
-A very tiny, very old human woman. She has many complaints about her grandson. She likes Juliet and invites her back for lemonade. She lets Juliet know that Tenpenny is at the Golden Lounge with 'that Cornetto Bitch.'
+A very tiny, very old human woman. She has many complaints about her grandson, [[Tenpenny]]. She likes Juliet and invites her back for lemonade. She lets Juliet know that Tenpenny is at the Golden Lounge with 'that Cornetto Bitch', [[Oksandra Cornetto]].
 
 Worships [[Krimhilda The Dragonslayer]].
-
-Appearance: 
-
-First Met: 
-
-Last Met: 

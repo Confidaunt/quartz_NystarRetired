@@ -19,13 +19,4 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary:
 "The Late King Dagda" - [[Benecio Plutok Rudamente]]
-
-Appearance: 
-
-First Met: 
-
-Last Met: 
-
-

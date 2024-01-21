@@ -21,12 +21,6 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary:
-A bow user. Poisoned by the sewer hydra. Sister to [[Sofina]]. Healed by Kalos.
+A bow user. Poisoned by the sewer hydra. Sister to [[Sofina]]. Healed by [[Kalos]].
 
-Appearance: 
-
-First Met: In the sewers fighting a were-shark and a hydra ball. A bow user.
-
-Last Met: 
 

@@ -19,14 +19,4 @@ isDead: false
 Cause: None
 draft: false
 ---
-Summary:
-"Rubi"
-
-A leading suspect of the attack on [[Jessamine Hypatia]]. Benecio dismissed her as a probably suspect because Hypatia was still alive.
-
-Appearance: 
-
-First Met: 
-
-Last Met: 
-
+She goes by Rubi. A leading suspect of the attack on [[Jessamine Hypatia]]. [[Benecio Plutok Rudamente|Benecio]] dismissed her as a probably suspect because Hypatia was still alive.
