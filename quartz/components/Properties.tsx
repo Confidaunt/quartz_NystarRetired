@@ -30,7 +30,8 @@ export default (() => {
 
     if(Object.keys(fileData.frontmatter ?? {}).length > 0){
       for (const [key, value] of Object.entries(fileData.frontmatter ?? {})) {
-
+        if(key.includes("draft")||key.includes("title")||key.includes("tags")){}
+        else{
         var linkedElements = [] 
         for (const [index, arrayItem] of Object.entries(value ?? {})) {
           var entry = value[index]
@@ -45,6 +46,8 @@ export default (() => {
           }
         }
         propertiesElements.push(createPropertyElement(key, linkedElements))
+      }
+
       }
     }
 
