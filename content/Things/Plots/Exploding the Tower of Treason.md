@@ -2,6 +2,6 @@
 draft: false
 ---
 Members:
-Possible: Victor Rudamente, Lumis, Thorne
+Possible: Victor Rudamente, Loomis, Thorne
 Target: Benecio, Benecio's Tower, The Moonlight Archives
 

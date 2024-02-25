@@ -1,4 +1,4 @@
 ---
 draft: true
 ---
-[[Maodokanna]]'s house. Inside [[The Labyrinth]].
+[[Maodokanna]]'s house. Inside [[Nystar/Divinity/The Labyrinth]].

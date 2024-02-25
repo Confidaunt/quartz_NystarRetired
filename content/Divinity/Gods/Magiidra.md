@@ -1,8 +1,5 @@
 ---
-draft: false
----
----
-Name: 
+Name: Magiidra
 Race: Unknown
 Tarot: Unknown
 Title: None
@@ -11,16 +8,20 @@ Origin: Unknown
 Country: Unknown
 Region: Unknown
 City: Unknown
-Organization: None
-Origin: Unknown
-Allies: None
-Enemies: None
-Associates: None
-isDead: False
+Organization:
+  - None
+Allies:
+  - None
+Enemies:
+  - None
+Associates:
+  - None
+isDead: false
 Cause: None
+draft: false
 ---
 Summary:
-The first red dragon. They are considered a god. The place of their death became the city of Magido.
+The first red dragon. They are considered a god. The place of their death became the city of [[Megido]].
 
 Appearance: 
 
